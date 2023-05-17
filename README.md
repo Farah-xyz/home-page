@@ -1,3 +1,3 @@
 # home-page
-![Cool Right ?](https://raw.githubusercontent.com/Farah-xyz/newtab-browser/main/assets/setup.jpg)
+![Cool Right ?](https://raw.githubusercontent.com/Farah-xyz/home-page/main/assets/setup.jpg)
 
